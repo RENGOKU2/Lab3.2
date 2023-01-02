@@ -132,7 +132,7 @@ double dividi(double a, double b, double c, double eps, double f(double x), int 
                 {
 
                 printf("\nThe amount of iterations > chosen iteration steps.\nWhat to do next?\n");
-                printf("\n\t[1] - Continue\n\t[2] - Continue until root were found\n\t[3] - Show current results and exit the program");
+                printf("\n\t 1 - Continue\n\t 2 - Continue until root were found\n\t 3 - Show current results and exit the program");
                 printf("\n\tOption: ");
                 scanf("%d", &doNext);
 
@@ -212,7 +212,7 @@ double secant(double a, double b, double c, double eps, double f(double x), int 
                 {
 
                 printf("\nThe amount of iterations > chosen iteration steps.\nWhat to do next?\n");
-                printf("\n\t[1] - Continue\n\t[2] - Continue until root were found\n\t[3] - Show current results and exit the program");
+                printf("\n\t 1 - Continue\n\t 2 - Continue until root were found\n\t 3 - Show current results and exit the program");
                 printf("\n\tOption: ");
                 scanf("%d", &doNext);
 
