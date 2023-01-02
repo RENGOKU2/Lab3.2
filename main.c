@@ -28,7 +28,7 @@ int main()
     printf("\n\tOption: ");
     scanf("%d", &display);
 
-    while (display != 1 && disblay != 2)
+    while (display != 1 && display != 2)
         {
         printf("\nInvalid option, try again.");
         printf("\n\tOption: ");
